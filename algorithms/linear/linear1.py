@@ -7,4 +7,4 @@ def alg(x1, y1, x2, y2):
     c = y1 * m + x1
 
     print("done")
-    print("f(x)=" + str(m) + "*x+" + str(c))
+    print("f(x)=" + str(round(m)) + "*x+" + str(c))
