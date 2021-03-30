@@ -3,3 +3,5 @@ algorithms/__pycache__/linear1.cpython-38.pyc
 algorithms/__pycache__/exponential1.cpython-38.pyc
 algorithms/__pycache__/exponential1.cpython-38.pyc
 algorithms/__pycache__/linear1.cpython-38.pyc
+*.pyc
+algorithms/__pycache__/exponential1.cpython-38.pyc
