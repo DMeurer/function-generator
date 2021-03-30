@@ -1,5 +1,6 @@
 import math
 
+# Please read the readme for a detailed documentation
 
 def alg(y0, x1, y1):
     print("Method: exponential 1")
@@ -9,4 +10,4 @@ def alg(y0, x1, y1):
     k = (math.log(y1 / y0))/x1
 
     print("done")
-    print("f(x)=" + str(round(y0)) + "*e^(" + str(round(k)) + "*x)")
+    print("f(x)=" + str(round(y0, 3)) + "*e^(" + str(round(k, 3)) + "*x)")

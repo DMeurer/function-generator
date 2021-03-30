@@ -4,7 +4,7 @@ the general limited growth function looks like this:
 
 ![y=m*x+c](../../pictures/limited_1.png)
 
-## limited_growth1
+## limited growth1
 
 For this method we need the y intercept, one point and the limit. P(0|y0) Q(x1|y1)
 
