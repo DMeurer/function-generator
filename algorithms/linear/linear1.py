@@ -5,7 +5,7 @@ def alg(x1, y1, x2, y2):
 
     m = (x2 - x1) / (y2 - y1)
     d = y1
-    c = x1
+    c = y1 * m + x1
 
     print("done")
     print("f(x)=" + str(m) + "*(x-(" + str(d) + "))+" + str(c))
