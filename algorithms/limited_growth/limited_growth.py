@@ -1,6 +1,6 @@
 import math
-
 # Please read the readme for a detailed documentation
+
 
 def alg(s, y0, x1, y1):
     print("Method: limited growth 1")

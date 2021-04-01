@@ -1,6 +1,6 @@
 import math
-
 # Please read the readme for a detailed documentation
+
 
 def alg(y0, x1, y1):
     print("Method: exponential 1")
