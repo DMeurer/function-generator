@@ -6,7 +6,6 @@ def alg(x1, y1, x2, y2):
     print("calculating...")
 
     m = (y2 - y1) / (x2 - x1)
-    z1 = x1 * m
     c = ((-1 * x1) * m) + y1
 
     print("done")
