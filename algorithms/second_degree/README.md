@@ -31,3 +31,5 @@ The first entry will be "a" the second "b" and the third one "c".
 Now we will approve it with another numpy function because the output could be a little inaccurate.
 
 Then it will print the calculated solution, and a warning if the solution is inaccurate.
+
+## new dependency: numpy
