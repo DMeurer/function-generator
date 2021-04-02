@@ -1,8 +1,3 @@
-# Title of the pull request
-Please do not submit a pull reqest without being assigned to the associated issue.
-
-
-
 ### Your checklist for this pull request
 🚨Please review the [guidelines for contributing](https://github.com/DMeurer/function-generator/blob/main/CONTRIBUTING.md) to this repository.
 
@@ -16,7 +11,3 @@ Please do not submit a pull reqest without being assigned to the associated issu
 Please describe your pull request.
 
 💔Thank you!
-
-
-A description of the changes proposed in the pull request.
-
